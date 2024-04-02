@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/landing-page/static/css/main.35343d5e.css",
-    "main.js": "/landing-page/static/js/main.1470bf36.js",
-    "static/media/PoppinsMediumItalic.ttf": "/landing-page/static/media/PoppinsMediumItalic.89e040c6a64d18f620dc.ttf",
-    "static/media/PoppinsSemiBoldItalic.ttf": "/landing-page/static/media/PoppinsSemiBoldItalic.3524ffc3226f4578e5c5.ttf",
-    "static/media/PoppinsLight.ttf": "/landing-page/static/media/PoppinsLight.7641a0f76ca9ef6c252c.ttf",
-    "static/media/PoppinsRegular.ttf": "/landing-page/static/media/PoppinsRegular.35d26b781dc5fda684cc.ttf",
-    "static/media/PoppinsMedium.ttf": "/landing-page/static/media/PoppinsMedium.673ed42382ab264e0bf5.ttf",
-    "static/media/PoppinsSemiBold.ttf": "/landing-page/static/media/PoppinsSemiBold.ac8d04b620e54be9b0f0.ttf",
-    "static/media/PoppinsBold.ttf": "/landing-page/static/media/PoppinsBold.cdb29a5d7ccf57ff05a3.ttf",
-    "index.html": "/landing-page/index.html",
-    "static/media/img_hobbies_deep_purple_400.svg": "/landing-page/static/media/img_hobbies_deep_purple_400.90ff71d497a2872df4ac.svg",
-    "main.35343d5e.css.map": "/landing-page/static/css/main.35343d5e.css.map",
-    "main.1470bf36.js.map": "/landing-page/static/js/main.1470bf36.js.map"
+    "main.css": "/static/css/main.ca035502.css",
+    "main.js": "/static/js/main.1470bf36.js",
+    "static/media/PoppinsMediumItalic.ttf": "/static/media/PoppinsMediumItalic.89e040c6a64d18f620dc.ttf",
+    "static/media/PoppinsSemiBoldItalic.ttf": "/static/media/PoppinsSemiBoldItalic.3524ffc3226f4578e5c5.ttf",
+    "static/media/PoppinsLight.ttf": "/static/media/PoppinsLight.7641a0f76ca9ef6c252c.ttf",
+    "static/media/PoppinsRegular.ttf": "/static/media/PoppinsRegular.35d26b781dc5fda684cc.ttf",
+    "static/media/PoppinsMedium.ttf": "/static/media/PoppinsMedium.673ed42382ab264e0bf5.ttf",
+    "static/media/PoppinsSemiBold.ttf": "/static/media/PoppinsSemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/PoppinsBold.ttf": "/static/media/PoppinsBold.cdb29a5d7ccf57ff05a3.ttf",
+    "index.html": "/index.html",
+    "static/media/img_hobbies_deep_purple_400.svg": "/static/media/img_hobbies_deep_purple_400.90ff71d497a2872df4ac.svg",
+    "main.ca035502.css.map": "/static/css/main.ca035502.css.map",
+    "main.1470bf36.js.map": "/static/js/main.1470bf36.js.map"
   },
   "entrypoints": [
-    "static/css/main.35343d5e.css",
+    "static/css/main.ca035502.css",
     "static/js/main.1470bf36.js"
   ]
 }
