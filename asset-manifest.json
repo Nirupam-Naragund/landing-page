@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/landing-page/static/css/main.35343d5e.css",
-    "main.js": "/landing-page/static/js/main.1470bf36.js",
+    "main.js": "/landing-page/static/js/main.5342c23c.js",
     "static/media/PoppinsMediumItalic.ttf": "/landing-page/static/media/PoppinsMediumItalic.89e040c6a64d18f620dc.ttf",
     "static/media/PoppinsSemiBoldItalic.ttf": "/landing-page/static/media/PoppinsSemiBoldItalic.3524ffc3226f4578e5c5.ttf",
     "static/media/PoppinsLight.ttf": "/landing-page/static/media/PoppinsLight.7641a0f76ca9ef6c252c.ttf",
@@ -12,10 +12,10 @@
     "index.html": "/landing-page/index.html",
     "static/media/img_hobbies_deep_purple_400.svg": "/landing-page/static/media/img_hobbies_deep_purple_400.90ff71d497a2872df4ac.svg",
     "main.35343d5e.css.map": "/landing-page/static/css/main.35343d5e.css.map",
-    "main.1470bf36.js.map": "/landing-page/static/js/main.1470bf36.js.map"
+    "main.5342c23c.js.map": "/landing-page/static/js/main.5342c23c.js.map"
   },
   "entrypoints": [
     "static/css/main.35343d5e.css",
-    "static/js/main.1470bf36.js"
+    "static/js/main.5342c23c.js"
   ]
 }
