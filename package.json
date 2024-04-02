@@ -2,7 +2,7 @@
   "name": "nnns-application-2",
   "homepage": "https://Nirupam-Naragund.github.io/landing-page",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
     "@testing-library/jest-dom": "^5.15.1",
